@@ -31,9 +31,6 @@ export default {
             'bermuda': '#78dcca',
             // ...
         },
-        screens: {
-            //https://tailwindcss.com/docs/screens#adding-larger-breakpoints
-          },
         extend: {},
     },
     daisyui: {
@@ -41,3 +38,4 @@ export default {
     },
     plugins: [require("daisyui")],
 };
+//https://tailwindcss.com/docs/screens#adding-larger-breakpoints
